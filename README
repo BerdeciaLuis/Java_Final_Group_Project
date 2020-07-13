@@ -8,7 +8,7 @@ Created the Person Class
 Added an Abstract Method to the Person Class
 Implemented all getter and setters needed for all these classes and also a toString and equals method
 
-isSmoke will the the abstract method in the Person Class
+isSmoke will be the abstract method in the Person Class
 
 Created the GUI class to test the classes
 Created the Launch class to be able to launch the program.
