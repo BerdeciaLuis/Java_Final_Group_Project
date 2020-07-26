@@ -30,8 +30,8 @@ public class Database {
 	//FIELDS//
 	
 	private String url = "jdbc:mysql://localhost:3306/FinalProject";
-	private String username = "root";
-	private String password = "9983952@Luis";
+	private String username = "username";
+	private String password = "password";
 	private String query;
 	private Student student;
 	private Teacher teacher;
